@@ -1,0 +1,26 @@
+<annotation>
+<folder>images</folder>
+<filename>1 (958).jpg</filename>
+<path>D:\custom_tensorflow\images\1 (958).jpg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+<width>864</width>
+<height>576</height>
+	<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+	<name>Forehead</name>
+	<pose>Unspecified</pose>
+	<truncated>0</truncated>
+	<difficult>0</difficult>
+	<bndbox>
+        <xmin>303</xmin>
+        <ymin>88</ymin>
+        <xmax>514</xmax>
+        <ymax>190</ymax>
+	</bndbox>
+</object>
+</annotation>
